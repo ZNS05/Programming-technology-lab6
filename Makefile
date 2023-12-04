@@ -1,2 +1,2 @@
 all:
-	g++ main.cpp train.cpp interface.cpp
+	g++ main.cpp train.cpp interface.cpp -o ./m
